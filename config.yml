@@ -1,0 +1,11 @@
+---
+name: Protected Files Check
+pem: amex.pem
+url: https://api.github.com
+app_id: 220281
+installation_id: 27415730
+owners:
+  - octocat
+files:
+  - .github/workflows/prevent.yml
+  - .github/workflows/test.yml
