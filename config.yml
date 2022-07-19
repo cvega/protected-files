@@ -1,0 +1,9 @@
+---
+pem: /path/to/secure.pem
+url: https://api.github.com
+app_id: 000001
+installation_id: 00000001
+owners:
+  - octocat
+files:
+  - .github/workflows/scanner.yml
